@@ -3,6 +3,6 @@
 
 Here's an image of a drag racer in action:
 
-![A Demo Fact for 88](photo.png)
+![A Demo Fact for number 88](photo.png)
 
 Enjoy!
