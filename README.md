@@ -1,15 +1,8 @@
-# Angular 6 PWA Tutorial
+# Angular 6 PWA Implemetation
+## Built on typescript with a service worker when the deployement mode is production.
 
-This is the project based on the following tutorial:
-[Build your First Angular PWA from Scratch](https://youtu.be/othhfZ0mGjU)
+Here's an image of a drag racer in action:
 
-## More Awesome Content
-
-Do me a big ol' favor and check out these awesome links. I release new video tutorials on full stack development Monday-Thursday @ 10:30 AM ET!
-
-* Subscribe to the [DesignCourse YouTube Channel](http://youtube.com/designcourse)
-* Check out the associated website [Coursetro Full Stack Development Training](https://coursetro.com)
-* [Twitter](https://twitter.com/designcoursecom)
-* [Facebook](https://facebook.com/coursetro)
+![A Demo Fact for 88](photo.png)
 
 Enjoy!
